@@ -1,7 +1,6 @@
 <div align="center">
-    <img src="butterfly.gif" alt="error" width="100%">
+    <img src="main.gif" alt="error" width="100%">
 </div>
 
-<img src="leaves.gif">
-
-[Telegram](https://t.me/Kravetsin)
+<!-- [Telegram](https://t.me/Kravetsin) -->
+<img src="point.gif"><a href="https://t.me/Kravetsin">Telegram</a>
