@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "label": "Steam",
+  "message": "Ready",
+  "color": "#fff",
+  "style": "for-the-badge",
+  "namedLogo": "steam",
+  "logoColor": "#fff"
+}
