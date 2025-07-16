@@ -1,7 +1,7 @@
 <div align="center">
-    <img src="error.gif" alt="error" width="300">
+    <img src="sun.gif" alt="error" width="100%">
 </div>
 
-<img src="leafes.gif">
+<img src="leaves.gif">
 
 [Telegram](https://t.me/Kravetsin)
