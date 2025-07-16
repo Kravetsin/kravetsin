@@ -1,8 +1,8 @@
 {
   "schemaVersion": 1,
-  "label": "hello",
-  "message": "sweet world",
-  "color": "orange",
+  "label": "Telegram",
+  "message": "online",
+  "color": "#fff",
   "style": "for-the-badge",
   "namedLogo": "telegram",
   "logoColor": "#fff"
