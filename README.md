@@ -3,4 +3,4 @@
 </div>
 
 <!-- [Telegram](https://t.me/Kravetsin) -->
-<img src="point.gif"><a href="https://t.me/Kravetsin">Telegram</a>
+<img src="point.gif" width="20"><a href="https://t.me/Kravetsin">Telegram</a>
