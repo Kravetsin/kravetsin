@@ -2,8 +2,6 @@
     <img src="main.gif" alt="error" width="100%">
 </div>
 
-<!-- [Telegram](https://t.me/Kravetsin) -->
-<img src="point.gif" width="20"><a href="https://t.me/Kravetsin">Telegram</a><img src="point.gif" width="20">
+<a href="https://t.me/Kravetsin"><img alt="Endpoint Badge" src="https://img.shields.io/endpoint?style=social&logo=telegram"></a>
 
-<img alt="Endpoint Badge" src="https://img.shields.io/endpoint?style=social&logo=telegram">
 
