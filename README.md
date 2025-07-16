@@ -1,8 +1,8 @@
-<styles>
+<style>
     a{
         text-decoration: none;
     }
-</styles>
+</style>
 
 <div align="center">
     <img src="error.gif" alt="error" display='block' width='100%' height='auto'>
