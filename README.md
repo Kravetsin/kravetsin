@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" width="100%" height="100">
     <img src="error.gif" alt="error" display='block' width='100%' height='auto'>
 </div>
 
