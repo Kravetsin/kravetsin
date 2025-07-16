@@ -1,7 +1,5 @@
-## Hi there 👋
-
 <div align="center">
-    <img src="76cI.gif" alt="error">
+    <img src="error.gif" alt="error">
 	<br>
 	<br>
 </div>
