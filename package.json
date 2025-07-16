@@ -3,6 +3,5 @@
   "label": "hello",
   "message": "sweet world",
   "color": "orange",
-  "is-online": "online",
-  "logo": "telegram"
+  "is-online": "online"
 }
