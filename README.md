@@ -1,5 +1,4 @@
 <div align="center">
     <img src="error.gif" alt="error">
-	<br>
-	<br>
 </div>
+[Telegram](https://t.me/Kravetsin)
