@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "label": "Telegram",
+  "message": "online",
+  "color": "#fff",
+  "style": "for-the-badge",
+  "namedLogo": "telegram",
+  "logoColor": "#fff"
+}
