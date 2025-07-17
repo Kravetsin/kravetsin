@@ -1,0 +1,9 @@
+{
+  "schemaVersion": 1,
+  "label": "Gmail",
+  "message": "send",
+  "color": "#fff",
+  "style": "for-the-badge",
+  "namedLogo": "gmail",
+  "logoColor": "#fff"
+}
