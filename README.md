@@ -17,5 +17,22 @@
         <img src="https://img.shields.io/badge/HTML-F16529?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <br/>
+        <br/>
+        <img src="https://img.shields.io/badge/Vite-white?style=for-the-badge&logo=vite&logoColor=f2ce30" />
     </div>
+</details>
+
+<details>
+ <summary>
+     📙 Other skills:
+  </summary>
+  <br/>
+  <div>
+    <img src="https://img.shields.io/badge/Photoshop-011c33?style=for-the-badge&logo=adobephotoshop&logoColor=2fa0f2" />
+    <img src="https://img.shields.io/badge/Figma-1c1c1c?style=for-the-badge&logo=figma&logoColor=white" />
+    <img src="https://img.shields.io/badge/Git-e44c31?style=for-the-badge&logo=git&logoColor=white" />
+    <br/>
+    <b>English level: Intermediate</b>
+  </div>
 </details>
